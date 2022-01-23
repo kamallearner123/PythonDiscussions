@@ -1,0 +1,34 @@
+[?1h=[?25l[H[2J(B[mtop - 09:06:39 up 1 day, 20:39,  2 users,  load average: 4.06, 3.57, 3.00(B[m[39;49m(B[m[39;49m[K
+Tasks:(B[m[39;49m[1m 494 (B[m[39;49mtotal,(B[m[39;49m[1m   1 (B[m[39;49mrunning,(B[m[39;49m[1m 493 (B[m[39;49msleeping,(B[m[39;49m[1m   0 (B[m[39;49mstopped,(B[m[39;49m[1m   0 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s):(B[m[39;49m[1m 14.4 (B[m[39;49mus,(B[m[39;49m[1m  4.3 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 81.3 (B[m[39;49mid,(B[m[39;49m[1m  0.0 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m   7654.1 (B[m[39;49mtotal,(B[m[39;49m[1m    308.3 (B[m[39;49mfree,(B[m[39;49m[1m   5191.4 (B[m[39;49mused,(B[m[39;49m[1m   2154.4 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m   2048.0 (B[m[39;49mtotal,(B[m[39;49m[1m      2.2 (B[m[39;49mfree,(B[m[39;49m[1m   2045.8 (B[m[39;49mused.(B[m[39;49m[1m   1065.9 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+[7m    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND                                                 (B[m[39;49m[K
+(B[m  13065 aiengin+  20   0   16.6g 282512 235836 S  31.2   3.6 122:55.84 chrome                                                  (B[m[39;49m[K
+(B[m  85594 aiengin+  20   0   46.6g 523008 198024 S  31.2   6.7  13:49.41 chrome                                                  (B[m[39;49m[K
+(B[m  10782 aiengin+  20   0 1387336 163720 116360 S  18.8   2.1  36:33.73 Xorg                                                    (B[m[39;49m[K
+(B[m  10930 aiengin+  20   0 6060584 266372  49272 S  12.5   3.4  30:12.72 gnome-shell                                             (B[m[39;49m[K
+(B[m    497 root     -51   0       0      0      0 S   6.2   0.0   0:45.68 irq/157-iwlwifi                                         (B[m[39;49m[K
+(B[m   6192 dhruvan   20   0 3204800 199548  29196 S   6.2   2.5  57:41.05 Web Content                                             (B[m[39;49m[K
+(B[m  10693 aiengin+  20   0 3498704   9072   6148 S   6.2   0.1  17:31.12 pulseaudio                                              (B[m[39;49m[K
+(B[m  13020 aiengin+  20   0   16.6g 337600 160228 S   6.2   4.3  25:21.01 chrome                                                  (B[m[39;49m[K
+(B[m  13315 aiengin+  20   0   16.8g  26736  24696 S   6.2   0.3   8:38.41 chrome                                                  (B[m[39;49m[K
+(B[m  64990 aiengin+  20   0 1328760 133516  86824 S   6.2   1.7   3:36.99 gnome-control-c                                         (B[m[39;49m[K
+(B[m[1m  88414 aiengin+  20   0   20888   4256   3208 R   6.2   0.1   0:00.01 top                                                     (B[m[39;49m[K
+(B[m      1 root      20   0  169696   9044   4276 S   0.0   0.1   0:04.67 systemd                                                 (B[m[39;49m[K
+(B[m      2 root      20   0       0      0      0 S   0.0   0.0   0:00.13 kthreadd                                                (B[m[39;49m[K
+(B[m      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp                                                  (B[m[39;49m[K
+(B[m      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp                                              (B[m[39;49m[K
+(B[m      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/0:0H-events_highpri                             (B[m[39;49m[K
+(B[m      9 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 mm_percpu_wq                                            (B[m[39;49m[K
+(B[m     10 root      20   0       0      0      0 S   0.0   0.0   0:00.00 rcu_tasks_rude_                                         (B[m[39;49m[K
+(B[m     11 root      20   0       0      0      0 S   0.0   0.0   0:00.00 rcu_tasks_trace                                         (B[m[39;49m[K
+(B[m     12 root      20   0       0      0      0 S   0.0   0.0   0:01.12 ksoftirqd/0                                             (B[m[39;49m[K
+(B[m     13 root      20   0       0      0      0 I   0.0   0.0   0:51.58 rcu_sched                                               (B[m[39;49m[K
+(B[m     14 root      rt   0       0      0      0 S   0.0   0.0   0:00.39 migration/0                                             (B[m[39;49m[K
+(B[m     15 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_inject/0                                           (B[m[39;49m[K
+(B[m     16 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/0                                                 (B[m[39;49m[K
+(B[m     17 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/1                                                 (B[m[39;49m[K
+(B[m     18 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_inject/1                                           (B[m[39;49m[K[?1l>[34;1H
+[?12l[?25h[K
